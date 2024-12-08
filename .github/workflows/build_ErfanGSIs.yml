@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware-res.flyme.com/Firmware/Flyme/meizu21Pro/11.2.0.0/cn/20241118213629/84c63c21/update.zip
+  ROM_URL: https://firmware-res.flyme.com/Firmware/Flyme/meizu21Pro/11.2.0.0/cn/20241118213629/84c63c21/update.zip?auth_key=1733640638-0-0-6a0dce5ea8018968bdf7d6c797562187
   ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
